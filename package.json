@@ -1,0 +1,19 @@
+{
+  "name": "energi-code-challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "jest",
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.4.2",
+    "ts-jest": "^26.1.0",
+    "typescript": "^4.0.2",
+    "@types/jest": "^26.0.0"
+  }
+}
